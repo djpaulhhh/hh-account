@@ -1,0 +1,4 @@
+v0.1
+info    前置版本，缺乏完整性
+add     changelog.txt
+        README.md
